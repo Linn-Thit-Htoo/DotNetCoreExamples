@@ -1,31 +1,31 @@
 # DotNetCoreExamples
 
-## [Http Client Service](https://github.com/Linn-Thit-Htoo/HttpClientService)
+### [Http Client Service](https://github.com/Linn-Thit-Htoo/HttpClientService)
 
-## [Dot Net Core Clean Architecture](https://github.com/Linn-Thit-Htoo/DotNetCoreCleanArchitecture)
+### [Dot Net Core Clean Architecture](https://github.com/Linn-Thit-Htoo/DotNetCoreCleanArchitecture)
 
-## [Dot Net Core Localization](https://github.com/Linn-Thit-Htoo/LocalizationExampleDotNetCore)
+### [Dot Net Core Localization](https://github.com/Linn-Thit-Htoo/LocalizationExampleDotNetCore)
 
-## [Fluent Validation Example](https://github.com/Linn-Thit-Htoo/FluentValidationExample)
+### [Fluent Validation Example](https://github.com/Linn-Thit-Htoo/FluentValidationExample)
 
-## [Blazor Web Assembly Sample](https://github.com/Linn-Thit-Htoo/BlazorWasmSample)
+### [Blazor Web Assembly Sample](https://github.com/Linn-Thit-Htoo/BlazorWasmSample)
 
-## [Blazor Server Sample](https://github.com/Linn-Thit-Htoo/BlazorServerSample)
+### [Blazor Server Sample](https://github.com/Linn-Thit-Htoo/BlazorServerSample)
 
-## [Dapper Service](https://github.com/Linn-Thit-Htoo/DapperService)
+### [Dapper Service](https://github.com/Linn-Thit-Htoo/DapperService)
 
-## [Redis As InMemory Cache](https://github.com/Linn-Thit-Htoo/RedisCacheDemoDotNetCoreWebApi)
+### [Redis As InMemory Cache](https://github.com/Linn-Thit-Htoo/RedisCacheDemoDotNetCoreWebApi)
 
-## [Dot Net Core In Memory Cahce](https://github.com/Linn-Thit-Htoo/InMemoryCacheExample)
+### [Dot Net Core In Memory Cahce](https://github.com/Linn-Thit-Htoo/InMemoryCacheExample)
 
-## [GraphQL Example](https://github.com/Linn-Thit-Htoo/GraphQLExample)
+### [GraphQL Example](https://github.com/Linn-Thit-Htoo/GraphQLExample)
 
-## [Dot Net Core Model Binding](https://github.com/Linn-Thit-Htoo/ModelBindingExample)
+### [Dot Net Core Model Binding](https://github.com/Linn-Thit-Htoo/ModelBindingExample)
 
-## [MVC Pagination](https://github.com/Linn-Thit-Htoo/PaginationExample)
+### [MVC Pagination](https://github.com/Linn-Thit-Htoo/PaginationExample)
 
-## [Repository Pattern](https://github.com/Linn-Thit-Htoo/RepositoryPatternExample)
+### [Repository Pattern](https://github.com/Linn-Thit-Htoo/RepositoryPatternExample)
 
-## [Logging Examples](https://github.com/Linn-Thit-Htoo/LoggingExamples)
+### [Logging Examples](https://github.com/Linn-Thit-Htoo/LoggingExamples)
 
-## [Sample Microservices using Ocelot as a API gateway](https://github.com/Linn-Thit-Htoo/Sample-Microservices)
+### [Sample Microservices using Ocelot as a API gateway](https://github.com/Linn-Thit-Htoo/Sample-Microservices)
