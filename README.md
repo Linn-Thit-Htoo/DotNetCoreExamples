@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+### [Custom Dapper Service](https://github.com/Linn-Thit-Htoo/CustomDapperService)
+
 ### [EF Core In Memory Database](https://github.com/Linn-Thit-Htoo/EFCoreInMemory)
 
 ### [Http Client Service](https://github.com/Linn-Thit-Htoo/HttpClientService)
