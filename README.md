@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+### [Rest Client Integration in Blazor Wasm + 3 tier architecture in REST API](https://github.com/Linn-Thit-Htoo/RestClientExample)
+
 ### [Custom Dapper Service](https://github.com/Linn-Thit-Htoo/CustomDapperService)
 
 ### [EF Core In Memory Database](https://github.com/Linn-Thit-Htoo/EFCoreInMemory)
