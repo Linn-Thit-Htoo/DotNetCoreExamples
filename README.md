@@ -42,4 +42,4 @@
 
 - [Logging Examples](https://github.com/Linn-Thit-Htoo/LoggingExamples)
 
-1 [Sample Microservices using Ocelot as a API gateway](https://github.com/Linn-Thit-Htoo/Sample-Microservices)
+1. [Sample Microservices using Ocelot as a API gateway](https://github.com/Linn-Thit-Htoo/Sample-Microservices)
