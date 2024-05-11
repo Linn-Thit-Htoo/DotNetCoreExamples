@@ -1,6 +1,6 @@
 # DotNetCoreExamples
 
-22 [Movie Ticket Online Booking System (Json to API) & Data Migration](https://github.com/Linn-Thit-Htoo/DotNet8.MovieDataFrameApi)
+22. [Movie Ticket Online Booking System (Json to API) & Data Migration](https://github.com/Linn-Thit-Htoo/DotNet8.MovieDataFrameApi)
 
 21. [Property Pattern Example](https://github.com/Linn-Thit-Htoo/DotNet8.PropertyPatternExample)
 
