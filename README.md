@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [DotNetEFDbContextScaffold](https://github.com/Linn-Thit-Htoo/DotNetEFDbContextScaffold)
+
 - [Movie Ticket Online Booking System (Json to API) & Data Migration](https://github.com/Linn-Thit-Htoo/DotNet8.MovieDataFrameApi)
 
 - [Property Pattern Example](https://github.com/Linn-Thit-Htoo/DotNet8.PropertyPatternExample)
