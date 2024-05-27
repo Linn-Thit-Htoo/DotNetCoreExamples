@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [CQRS Design Pattern using MediatR with Repository Pattern](https://github.com/Linn-Thit-Htoo/DotNet8.CqrsDesignPattern)
+
 - [Builder Design Pattern Example](https://github.com/Linn-Thit-Htoo/BuilderDesignPatternExample)
 
 - [DotNetEFDbContextScaffold](https://github.com/Linn-Thit-Htoo/DotNetEFDbContextScaffold)
