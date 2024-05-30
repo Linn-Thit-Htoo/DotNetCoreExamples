@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Dot Net 8 Hexagonal Architecture Sample](https://github.com/Linn-Thit-Htoo/DotNet8.HexagonalArchitectureSample)
+
 - [Dot Net 8 Lite Db Sample](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.LiteDbSample)
 
 - [CQRS Design Pattern using MediatR with Repository Pattern](https://github.com/Linn-Thit-Htoo/DotNet8.CqrsDesignPattern)
