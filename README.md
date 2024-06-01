@@ -2,6 +2,8 @@
 
 - [Dot Net 8 Mini Payroll Management System using Hexagonal Architecture + CQRS Design Pattern](https://github.com/Linn-Thit-Htoo/DotNet8.MiniPayrollManagementSystem)
 
+- [Dot Net 7 Expense Tracker Api](https://github.com/Linn-Thit-Htoo/DotNet7.ExpenseTrackerApi)
+
 - [Dot Net 8 Hexagonal Architecture Sample](https://github.com/Linn-Thit-Htoo/DotNet8.HexagonalArchitectureSample)
 
 - [Dot Net 8 Lite Db Sample](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.LiteDbSample)
