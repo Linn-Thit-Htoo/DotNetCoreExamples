@@ -4,6 +4,8 @@
 
 - [Dot Net 7 Expense Tracker Api](https://github.com/Linn-Thit-Htoo/DotNet7.ExpenseTrackerApi)
 
+- [Dot Net 8 Mini Banking Management System using Vertical Slice Architecture + N tier Architecture](https://github.com/Linn-Thit-Htoo/DotNet8.MiniBankingManagementSystem)
+
 - [Dot Net 8 Hexagonal Architecture Sample](https://github.com/Linn-Thit-Htoo/DotNet8.HexagonalArchitectureSample)
 
 - [Dot Net 8 Lite Db Sample](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.LiteDbSample)
