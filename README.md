@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Dot Net 8 Fluent Ftp Sample](https://github.com/Linn-Thit-Htoo/DotNet8.FluentFtpSample)
+
 - [Dot Net 8 Auto Mapper Example](https://github.com/Linn-Thit-Htoo/DotNet8.AutoMapperExample)
 
 - [Dot Net 8 Mini Payroll Management System using Hexagonal Architecture + CQRS Design Pattern](https://github.com/Linn-Thit-Htoo/DotNet8.MiniPayrollManagementSystem)
