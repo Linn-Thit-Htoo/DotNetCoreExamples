@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Dot Net 8 EF Core Transaction Sample](https://github.com/Linn-Thit-Htoo/DotNet8.EFCoreTransactionSample)
+
 - [OData Sample in Dot Net 8 Web Api](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.ODataSample)
 
 - [Dot Net 8 Web Api Result Pattern](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.ResultPattern)
