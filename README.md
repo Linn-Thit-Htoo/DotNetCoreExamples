@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [OData Sample in Dot Net 8 Web Api](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.ODataSample)
+
 - [Dot Net 8 Web Api Result Pattern](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.ResultPattern)
 
 - [Dot Net 8 Fluent Ftp Sample](https://github.com/Linn-Thit-Htoo/DotNet8.FluentFtpSample)
