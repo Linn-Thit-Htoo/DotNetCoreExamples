@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Facade Design Pattern in Console App](https://github.com/Linn-Thit-Htoo/DotNet8ConsoleApp.FacadeDesignPatternSample)
+
 - [REPR Design Pattern Sample in Dot Net 8 Web Api](https://github.com/Linn-Thit-Htoo/DotNet8.REPRDesignPatternSample)
 
 - [Yield Pattern in Console App](https://github.com/Linn-Thit-Htoo/DotNet8.YieldReturnSample)
