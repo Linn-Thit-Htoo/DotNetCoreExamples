@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Hexagonal Architecture with Result Pattern in Dot Net 8 Web Api](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.HexagonalWithResultPattern)
+
 - [Fluent Ftp in Dot Net 8](https://github.com/Linn-Thit-Htoo/DotNet8.FluentFtpSample)
 
 - [Result Pattern in Dot Net 8 Web Api](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.ResultPattern)
