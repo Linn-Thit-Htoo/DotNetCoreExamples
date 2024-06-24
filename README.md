@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Yield Pattern in Console App](https://github.com/Linn-Thit-Htoo/DotNet8.YieldReturnSample)
+
 - [EF Core Pagination Sample in Dot Net 8 Web Api](https://github.com/Linn-Thit-Htoo/DotNet8.EFCorePaginationSample)
 
 - [Hexagonal Architecture with Result Pattern in Dot Net 8 Web Api](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.HexagonalWithResultPattern)
