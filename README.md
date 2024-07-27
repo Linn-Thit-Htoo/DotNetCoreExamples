@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Dot Net 8 Gridify Example in Minimal Api](https://github.com/Linn-Thit-Htoo/DotNet8.Packages.GridifyExample.MinimalApi)
+
 - [Bogus Example](https://github.com/Linn-Thit-Htoo/Packages.BogusExample)
 
 - [Dumpify Example](https://github.com/Linn-Thit-Htoo/Packages.DumpifyExample)
