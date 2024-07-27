@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Dot Net 7 Domain Driven Design Sample](https://github.com/Linn-Thit-Htoo/DotNet8.DomainDrivenDesignSample)
+
 - [Dot Net 8 Gridify Example in Minimal Api](https://github.com/Linn-Thit-Htoo/DotNet8.Packages.GridifyExample.MinimalApi)
 
 - [Bogus Example](https://github.com/Linn-Thit-Htoo/Packages.BogusExample)
