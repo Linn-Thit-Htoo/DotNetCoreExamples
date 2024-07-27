@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Bogus Example](https://github.com/Linn-Thit-Htoo/Packages.BogusExample)
+
 - [Dumpify Example](https://github.com/Linn-Thit-Htoo/Packages.DumpifyExample)
 
 - [Read from CSV in Console](https://github.com/Linn-Thit-Htoo/DotNet8ConsoleApp.ReadFromCsvFile)
