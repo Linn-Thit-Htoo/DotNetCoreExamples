@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Clean Architecture with Unit Of Work in Dot Net 8 Web Api](https://github.com/Linn-Thit-Htoo/DotNet8.CleanArchitectureWithUnitOfWork)
+
 - [Generic Repository Pattern in Dot Net 8 Web Api](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.GenericRepositoryPatternExample)
 
 - [N Layer Architecture in Dot Net 8 MVC](https://github.com/Linn-Thit-Htoo/DotNet8Mvc.NLayerArchitecture)
