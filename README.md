@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [N Layer Architecture in Dot Net 8 MVC](https://github.com/Linn-Thit-Htoo/DotNet8Mvc.NLayerArchitecture)
+
 - [Json File CRUD in Api using Dot Net 8](https://github.com/Linn-Thit-Htoo/DotNet8JsonCrud.Api)
 
 - [Dot Net 8 Web Api Hangfire Example](https://github.com/Linn-Thit-Htoo/DotNet8.Hangfire.Api)
