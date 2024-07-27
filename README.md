@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Read from CSV in Console](https://github.com/Linn-Thit-Htoo/DotNet8ConsoleApp.ReadFromCsvFile)
+
 - [Sieve Example in Dot Net 8 Web API](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.SieveExample)
 
 - [Facade Design Pattern in Console App](https://github.com/Linn-Thit-Htoo/DotNet8ConsoleApp.FacadeDesignPatternSample)
