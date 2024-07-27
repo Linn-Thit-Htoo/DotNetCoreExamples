@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Dot Net 8 Web Api Hangfire Example](https://github.com/Linn-Thit-Htoo/DotNet8.Hangfire.Api)
+
 - [Dot Net Web Api Specification Pattern](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.SpecificationPattern)
 
 - [Dot Net 7 Domain Driven Design Sample](https://github.com/Linn-Thit-Htoo/DotNet8.DomainDrivenDesignSample)
