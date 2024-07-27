@@ -1,5 +1,7 @@
 # DotNetCoreExamples
 
+- [Dumpify Example](https://github.com/Linn-Thit-Htoo/Packages.DumpifyExample)
+
 - [Read from CSV in Console](https://github.com/Linn-Thit-Htoo/DotNet8ConsoleApp.ReadFromCsvFile)
 
 - [Sieve Example in Dot Net 8 Web API](https://github.com/Linn-Thit-Htoo/DotNet8WebApi.SieveExample)
